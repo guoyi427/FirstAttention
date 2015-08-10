@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "309B3BEB1B78F42E00E716F2"
+               BlueprintIdentifier = "309B3C1D1B78FCC000E716F2"
                BuildableName = "FirstAttention.app"
                BlueprintName = "FirstAttention"
                ReferencedContainer = "container:FirstAttention.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "309B3C041B78F42E00E716F2"
+               BlueprintIdentifier = "309B3C361B78FCC000E716F2"
                BuildableName = "FirstAttentionTests.xctest"
                BlueprintName = "FirstAttentionTests"
                ReferencedContainer = "container:FirstAttention.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "309B3C041B78F42E00E716F2"
+               BlueprintIdentifier = "309B3C361B78FCC000E716F2"
                BuildableName = "FirstAttentionTests.xctest"
                BlueprintName = "FirstAttentionTests"
                ReferencedContainer = "container:FirstAttention.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "309B3BEB1B78F42E00E716F2"
+            BlueprintIdentifier = "309B3C1D1B78FCC000E716F2"
             BuildableName = "FirstAttention.app"
             BlueprintName = "FirstAttention"
             ReferencedContainer = "container:FirstAttention.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "309B3BEB1B78F42E00E716F2"
+            BlueprintIdentifier = "309B3C1D1B78FCC000E716F2"
             BuildableName = "FirstAttention.app"
             BlueprintName = "FirstAttention"
             ReferencedContainer = "container:FirstAttention.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "309B3BEB1B78F42E00E716F2"
+            BlueprintIdentifier = "309B3C1D1B78FCC000E716F2"
             BuildableName = "FirstAttention.app"
             BlueprintName = "FirstAttention"
             ReferencedContainer = "container:FirstAttention.xcodeproj">
